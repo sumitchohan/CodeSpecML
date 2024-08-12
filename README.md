@@ -55,6 +55,8 @@ views/
         shop.pug           # Shop page template (Pug)
 ```
 
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/all_classes.png)
+
 This structure provides an overview of the code files and their purposes within the project.
 
 sumitchohan: @workspace create a plant uml diagram showing solution structure
