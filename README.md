@@ -144,7 +144,7 @@ package "Root" {
 
 You can copy this code into a PlantUML editor or use a PlantUML plugin in Visual Studio Code to visualize the diagram. This will give you a hierarchical view of your project's structure.
 
-JPG
+### Solution Structure
 
 
 ![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/solution_structure.png.crdownload)
