@@ -149,6 +149,7 @@ You can copy this code into a PlantUML editor or use a PlantUML plugin in Visual
 
 ![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/solution_structure.png.crdownload)
 
+
 sumitchohan: @workspace Provide explanation of above diagram
 
 Workspace: The provided diagram represents the structure of your project workspace. Here's a detailed explanation of each part:
@@ -287,6 +288,14 @@ To visualize this diagram, you can use a PlantUML viewer or an IDE plugin that s
 sumitchohan: @workspace Provide explanatio of each component in above diagram
 
 Workspace: Sure, I'll provide an explanation of each component in your workspace structure:
+
+
+### Solution Components
+
+
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/all_components.png.crdownload)
+
+
 
 ### Root Files
 - **[`.env`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2F.env%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/.env")**: This file typically contains environment variables that are used to configure the application, such as database connection strings, API keys, etc.
@@ -441,6 +450,12 @@ User --> "1" : data/users.json
 @enduml
 ```
 
+
+### State Documents
+
+
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/all_state_document.png)
+
 You can use these PlantUML diagrams to visualize the relationships between your models and the state documents. To generate the diagrams, you can use a PlantUML editor or an online PlantUML tool.
 
 sumitchohan: @workspace create another plant uml diagram showing relationships among all business entities and data models
@@ -575,6 +590,13 @@ OrderSchema --> ProductSchema : products
 
 This PlantUML code defines the entities `User`, `Product`, `Order`, and `Cart`, and shows the relationships between them based on the provided schemas. The `Product` entity references the `User` entity through the `userId` field, and the `Order` entity references both `User` and `Product` entities through the `userId` and `products` fields, respectively. The `Cart` entity has methods for adding and deleting products.
 
+
+### Entities
+
+
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/business_entities.png.crdownload)
+
+
 sumitchohan: @workspace Create plantuml diagram showing all state documents
 
 Workspace: Based on the provided workspace structure and the relevant files, here is a PlantUML diagram representing the state documents (JSON files) and their relationships:
@@ -661,6 +683,11 @@ AdminUser --> UC_AdminDeleteProduct
 @enduml
 ```
 
+
+### Use Cases
+
+
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/all_use_cases.png.crdownload)
 This PlantUML code defines the use cases for the `ShopingKaro` application. The `User` actor can perform actions such as viewing products, adding products to the cart, viewing the cart, checking out, and viewing orders. The `Admin` actor can perform administrative actions such as adding, viewing, editing, and deleting products.
 
 sumitchohan: @workspace describe all use cases in current code base
