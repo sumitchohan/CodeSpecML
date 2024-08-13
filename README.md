@@ -454,7 +454,7 @@ User --> "1" : data/users.json
 ### State Documents
 
 
-![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/all_state_document.png)
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/all_state_documents.png)
 
 You can use these PlantUML diagrams to visualize the relationships between your models and the state documents. To generate the diagrams, you can use a PlantUML editor or an online PlantUML tool.
 
@@ -594,7 +594,7 @@ This PlantUML code defines the entities `User`, `Product`, `Order`, and `Cart`, 
 ### Entities
 
 
-![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/business_entities.png.crdownload)
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/all_business_entities.png.crdownload)
 
 
 sumitchohan: @workspace Create plantuml diagram showing all state documents
