@@ -759,7 +759,7 @@ These use cases cover the primary functionalities and operations within the curr
 
 sumitchohan: generate details documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### File: [`admin.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fcontrollers%2Fadmin.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/controllers/admin.js")
+ ### File: [`admin.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fcontrollers%2Fadmin.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/controllers/admin.js")
 
 This file contains the implementation of various administrative functionalities for managing products in an application. The functionalities include fetching all products and deleting a specific product. The code uses Mongoose for interacting with a MongoDB database.
 
@@ -815,7 +815,7 @@ This file leverages Mongoose for database operations and uses Express.js for han
 
 sumitchohan: generate details documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### File: [`error.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fcontrollers%2Ferror.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/controllers/error.js")
+ ### File: [`error.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fcontrollers%2Ferror.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/controllers/error.js")
 
 This file contains the implementation of error handling functionalities for the application. Specifically, it handles the scenario where a requested page is not found (404 error).
 
@@ -851,7 +851,7 @@ This file is a part of the error handling mechanism of the application, ensuring
 
 sumitchohan: generate details documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### File: [`shop.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fcontrollers%2Fshop.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/controllers/shop.js")
+ ### File: [`shop.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fcontrollers%2Fshop.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/controllers/shop.js")
 
 This file contains the implementation of the shop-related functionalities for the application. It includes methods for fetching all products and fetching a specific product by its ID. The implementation uses Mongoose for interacting with a MongoDB database.
 
@@ -909,7 +909,7 @@ This file is a part of the shop functionality of the application, ensuring that 
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### File: [`cart.json`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fdata%2Fcart.json%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/data/cart.json")
+ ### File: [`cart.json`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fdata%2Fcart.json%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/data/cart.json")
 
 This file represents the initial state of a shopping cart in JSON format. It includes an array of products and a total price field.
 
@@ -947,7 +947,7 @@ sumitchohan: generate detailed documentation for current code file including all
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### File: [`database.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fhelper%2Fdatabase.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/helper/database.js")
+ ### File: [`database.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fhelper%2Fdatabase.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/helper/database.js")
 
 This file contains the implementation for connecting to a MongoDB database using the MongoDB Node.js driver. It provides methods to establish a connection and retrieve the database instance.
 
@@ -1038,7 +1038,7 @@ This implementation ensures that the application can connect to a MongoDB databa
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### File: [`NotFound.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fhelper%2FNotFound.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/helper/NotFound.js")
+ ### File: [`NotFound.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fhelper%2FNotFound.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/helper/NotFound.js")
 
 This file sets up an Express router to handle 404 (Not Found) errors by using a controller method.
 
@@ -1093,7 +1093,7 @@ This implementation ensures that any requests to undefined routes are handled by
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### File: [`path.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fhelper%2Fpath.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/helper/path.js")
+ ### File: [`path.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fhelper%2Fpath.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/helper/path.js")
 
 This file is responsible for exporting the directory name of the main module that started the Node.js process.
 
@@ -1158,7 +1158,7 @@ This implementation is useful for determining the root directory of the main mod
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### File: [`cart.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%2Fcart.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/models/cart.js")
+ ### File: [`cart.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%2Fcart.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/models/cart.js")
 
 This file defines a [`Cart`](command:_github.copilot.openSymbolFromReferences?%5B%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%2Fcart.js%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%2Fcart.js%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%2Fcart.js%22%2C%22scheme%22%3A%22file%22%7D%2C%7B%22line%22%3A9%2C%22character%22%3A17%7D%5D "models/cart.js") class that handles adding and deleting products in a shopping cart. The cart data is stored in a JSON file.
 
@@ -1310,7 +1310,7 @@ This implementation provides a basic structure for managing a shopping cart in a
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`order.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%2Forder.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/models/order.js")
+ ### Documentation for [`order.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%2Forder.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/models/order.js")
 
 #### Summary
 This file defines a Mongoose schema and model for an `Order` in a MongoDB database. The `Order` schema includes information about the products in the order and the user who placed the order.
@@ -1381,7 +1381,7 @@ This documentation provides a detailed overview of the `order.js` file, includin
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`product.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%2Fproduct.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/models/product.js")
+ ### Documentation for [`product.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%2Fproduct.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/models/product.js")
 
 #### Summary
 This file defines a Mongoose schema for a `Product` model in a MongoDB database. The schema includes fields for the product's title, price, description, image URL, and the user ID of the user who created the product. The schema is then used to create a Mongoose model, which is exported for use in other parts of the application.
@@ -1500,7 +1500,7 @@ These methods allow you to perform a wide range of operations on the `Product` c
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### User Model Documentation
+ ### User Model Documentation
 
 #### Summary
 This file defines a Mongoose model for a `User` in a MongoDB database. The `User` model includes fields for the user's name, email, and a shopping cart. Additionally, it includes a method for adding products to the cart.
@@ -1599,7 +1599,7 @@ This documentation provides a detailed overview of the `User` model, including i
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### CSS File Documentation: [`add-product.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2Fadd-product.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/add-product.css")
+ ### CSS File Documentation: [`add-product.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2Fadd-product.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/add-product.css")
 
 #### Summary
 This CSS file styles the form elements for adding a product. It includes styles for paragraphs, input fields, text areas, and buttons within a form. The styles ensure a consistent look and feel for the form elements, including layout, padding, margins, font sizes, and colors.
@@ -1668,7 +1668,7 @@ This documentation provides a detailed overview of the CSS selectors and propert
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### CSS File Documentation: [`cart.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2Fcart.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/cart.css")
+ ### CSS File Documentation: [`cart.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2Fcart.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/cart.css")
 
 #### Summary
 This CSS file styles the cart section of an e-commerce website. It includes styles for the cart container, individual cart items, images, and delete buttons. The styles ensure a consistent layout and appearance for the cart elements, including spacing, alignment, font sizes, and colors.
@@ -1755,7 +1755,7 @@ This documentation provides a detailed overview of the CSS selectors and propert
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### CSS File Documentation: [`main.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2Fmain.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/main.css")
+ ### CSS File Documentation: [`main.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2Fmain.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/main.css")
 
 #### Summary
 This CSS file provides the foundational styles for a web page, including global resets, header styling, navigation menu, main content area, and a product card grid layout. The styles ensure a consistent look and feel across the website, with specific attention to layout, spacing, and typography.
@@ -1839,7 +1839,7 @@ This documentation provides a detailed overview of the CSS selectors and propert
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### CSS File Documentation: [`NotFound.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2FNotFound.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/NotFound.css")
+ ### CSS File Documentation: [`NotFound.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2FNotFound.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/NotFound.css")
 
 #### Summary
 This CSS file provides styling for the error message displayed on a "Not Found" page. The styles ensure that the error message is centered both vertically and horizontally within its container, using Flexbox for layout.
@@ -1867,7 +1867,7 @@ This documentation provides a detailed overview of the CSS selector and properti
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### CSS File Documentation: [`order.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2Forder.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/order.css")
+ ### CSS File Documentation: [`order.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2Forder.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/order.css")
 
 #### Summary
 This CSS file provides styling for the order section of a web page. It includes styles for the order container, order items, order details, order images, and order descriptions. The styles ensure a clean and organized layout with appropriate spacing and alignment.
@@ -1934,7 +1934,7 @@ This documentation provides a detailed overview of the CSS selectors and propert
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### CSS File Documentation: [`product-details.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2Fproduct-details.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/product-details.css")
+ ### CSS File Documentation: [`product-details.css`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpublic%2Fcss%2Fproduct-details.css%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/public/css/product-details.css")
 
 #### Summary
 This CSS file provides styling for the product details section of a web page. It includes styles for product images, product sections, descriptions, and buttons. The styles ensure a visually appealing and user-friendly layout with appropriate spacing, alignment, and interactive elements.
@@ -2027,7 +2027,7 @@ GitHub Copilot: It looks like the current file [`main.js`](command:_github.copil
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`admin.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Froutes%2Fadmin.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/routes/admin.js")
+ ### Documentation for [`admin.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Froutes%2Fadmin.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/routes/admin.js")
 
 #### Summary
 This file sets up the routing for the admin-related operations in an Express.js application. It imports the necessary modules, defines routes for various admin actions, and exports the router for use in other parts of the application.
@@ -2091,7 +2091,7 @@ This sets up the `/admin` prefix for all routes defined in this file.
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`shop.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Froutes%2Fshop.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/routes/shop.js")
+ ### Documentation for [`shop.js`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Froutes%2Fshop.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/routes/shop.js")
 
 #### Summary
 This file sets up the routing for the shop-related operations in an Express.js application. It imports the necessary modules, defines routes for various shop actions, and exports the router for use in other parts of the application.
@@ -2167,7 +2167,7 @@ This sets up the routes defined in this file for handling shop-related operation
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`add-product.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadmin%2Fadd-product.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/admin/add-product.ejs")
+ ### Documentation for [`add-product.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadmin%2Fadd-product.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/admin/add-product.ejs")
 
 #### Summary
 The [`add-product.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadmin%2Fadd-product.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/admin/add-product.ejs") file is an EJS (Embedded JavaScript) template used to render a form for adding a new product in a web application. This form includes fields for the product title, image URL, price, and description. The form submits data to the `/admin/add-product` endpoint using the POST method.
@@ -2307,7 +2307,7 @@ This documentation provides a detailed overview of the structure and purpose of 
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`edit-product.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadmin%2Fedit-product.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/admin/edit-product.ejs")
+ ### Documentation for [`edit-product.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadmin%2Fedit-product.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/admin/edit-product.ejs")
 
 #### Summary
 The [`edit-product.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadmin%2Fedit-product.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/admin/edit-product.ejs") file is an EJS (Embedded JavaScript) template used to render a form for adding or editing a product in a web application. The form includes fields for the product title, image URL, price, and description. Depending on whether the form is in "edit" mode or "add" mode, it submits data to either the `/admin/edit-product` or `/admin/add-product` endpoint using the POST method.
@@ -2451,7 +2451,7 @@ This documentation provides a detailed overview of the structure and purpose of 
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`products.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadmin%2Fproducts.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/admin/products.ejs")
+ ### Documentation for [`products.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadmin%2Fproducts.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/admin/products.ejs")
 
 #### Summary
 The [`products.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadmin%2Fproducts.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/admin/products.ejs") file is an EJS (Embedded JavaScript) template used to render a list of products in a web application. It includes the header, navbar, and footer from other EJS files and dynamically generates product cards based on the `prods` array passed to it. Each product card displays the product's title, image, price, and description, and includes buttons for editing and deleting the product.
@@ -2622,7 +2622,7 @@ This documentation provides a detailed overview of the structure and purpose of 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
 
-GitHub Copilot: ### Documentation for `products.ejs`
+ ### Documentation for `products.ejs`
 
 #### Summary
 The `products.ejs` file is an EJS (Embedded JavaScript) template used to render a list of products in a web application. It includes the header, navbar, and footer from other EJS files and dynamically generates product cards based on the `prods` array passed to it. Each product card displays the product's title, image, price, and description, and includes buttons for editing and deleting the product.
@@ -2802,7 +2802,7 @@ sumitchohan: generate detailed documentation for current code file including all
 
 
 
-GitHub Copilot: ### Documentation for [`header.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fincludes%2Fheader.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/includes/header.ejs")
+ ### Documentation for [`header.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fincludes%2Fheader.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/includes/header.ejs")
 
 #### Summary
 The [`header.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fincludes%2Fheader.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/includes/header.ejs") file is an EJS (Embedded JavaScript) template used to define the common header section of a web application. This file includes the HTML document type declaration, the opening HTML tag with language attribute, the head section with meta tags for character set and viewport settings, a dynamic title, and a link to the main CSS stylesheet.
@@ -2876,7 +2876,7 @@ The [`header.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`navbar.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fincludes%2Fnavbar.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/includes/navbar.ejs")
+ ### Documentation for [`navbar.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fincludes%2Fnavbar.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/includes/navbar.ejs")
 
 #### Summary
 The [`navbar.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fincludes%2Fnavbar.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/includes/navbar.ejs") file is an EJS (Embedded JavaScript) template used to define the navigation bar section of a web application. This file includes a header element with a navigation bar that contains links to various sections of the website such as Shop, Products, Cart, Add Product, Admin Products, and Orders.
@@ -2952,7 +2952,7 @@ The [`navbar.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`main-layout.pug`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Flayouts%2Fmain-layout.pug%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/layouts/main-layout.pug")
+ ### Documentation for [`main-layout.pug`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Flayouts%2Fmain-layout.pug%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/layouts/main-layout.pug")
 
 #### Summary
 The [`main-layout.pug`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Flayouts%2Fmain-layout.pug%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/layouts/main-layout.pug") file is a Pug template used to define the main layout of a web application. This template includes the HTML document structure, head section with meta tags, dynamic title, link to the main CSS stylesheet, a header with a navigation bar, and placeholders for additional styles and content.
@@ -3095,7 +3095,7 @@ The [`main-layout.pug`](command:_github.copilot.openRelativePath?%5B%7B%22scheme
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`cart.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Fcart.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/cart.ejs")
+ ### Documentation for [`cart.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Fcart.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/cart.ejs")
 
 #### Summary
 The [`cart.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Fcart.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/cart.ejs") file is an EJS template used to render the shopping cart page of a web application. It includes the header and navbar partials, links to a CSS stylesheet for styling, and dynamically generates the cart's content based on the products in the user's cart. The template displays product images, titles, quantities, and prices, and provides controls for adjusting quantities.
@@ -3282,7 +3282,7 @@ The [`cart.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
 
-GitHub Copilot: ### Documentation for [`checkout.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Fcheckout.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/checkout.ejs")
+ ### Documentation for [`checkout.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Fcheckout.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/checkout.ejs")
 
 #### Summary
 The [`checkout.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Fcheckout.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/checkout.ejs") file is an EJS template used to render the checkout page of a web application. It includes the header, navbar, and footer partials, and displays a heading indicating that the user is on the checkout page.
@@ -3356,7 +3356,7 @@ The [`checkout.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`index.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Findex.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/index.ejs")
+ ### Documentation for [`index.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Findex.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/index.ejs")
 
 #### Summary
 The [`index.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Findex.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/index.ejs") file is an EJS template used to render the main page of a web application. It includes the header, navbar, and footer partials, and dynamically displays a list of products. If no products are available, it shows a message indicating that the product list is empty.
@@ -3546,7 +3546,7 @@ The [`index.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`orders.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Forders.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/orders.ejs")
+ ### Documentation for [`orders.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Forders.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/orders.ejs")
 
 #### Summary
 The [`orders.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Forders.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/orders.ejs") file is an EJS template used to render the orders page of a web application. It includes the header, navbar, and footer partials, and dynamically displays a list of orders. If no orders are available, it shows a message indicating that there are no orders.
@@ -4822,7 +4822,7 @@ The [`package-lock.json`](command:_github.copilot.openRelativePath?%5B%7B%22sche
 
 sumitchohan: generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
-GitHub Copilot: ### Documentation for [`package.json`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpackage.json%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/package.json")
+ ### Documentation for [`package.json`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpackage.json%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/package.json")
 
 #### Overview
 The [`package.json`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fpackage.json%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/package.json") file is a crucial component of any Node.js project. It contains metadata about the project, including its name, version, description, main entry point, scripts, author information, license, and dependencies. This file allows npm to manage the project's dependencies and scripts efficiently.
