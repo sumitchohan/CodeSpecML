@@ -1,4 +1,4 @@
-sumitchohan: @workspace Create a directory structure of all code files in the current codebase and include a brief description of each code file
+[comment]: <> sumitchohan: @workspace Create a directory structure of all code files in the current codebase and include a brief description of each code file
 
 
 Workspace: Here is a directory structure of all code files in the current codebase along with a brief description of each code file:
