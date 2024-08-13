@@ -1,7 +1,7 @@
 sumitchohan: @workspace Create a directory structure of all code files in the current codebase and include a brief description of each code file
 
 
-Workspace: Here is a directory structure of all code files in the current codebase along with a brief description of each code file:
+Here is a directory structure of all code files in the current codebase along with a brief description of each code file:
 
 ```
 .env
@@ -60,7 +60,7 @@ This structure provides an overview of the code files and their purposes within 
 
 sumitchohan: @workspace create a plant uml diagram showing solution structure
 
-Workspace: To create a PlantUML diagram that shows the solution structure of your workspace, you can use the following PlantUML code. This code represents the directories and files in your workspace.
+To create a PlantUML diagram that shows the solution structure of your workspace, you can use the following PlantUML code. This code represents the directories and files in your workspace.
 
 ```plantuml
 @startuml
@@ -152,7 +152,7 @@ You can copy this code into a PlantUML editor or use a PlantUML plugin in Visual
 
 sumitchohan: @workspace Provide explanation of above diagram
 
-Workspace: The provided diagram represents the structure of your project workspace. Here's a detailed explanation of each part:
+The provided diagram represents the structure of your project workspace. Here's a detailed explanation of each part:
 
 ### Root Directory
 - **[`.env`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2F.env%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/.env")**: Environment configuration file.
@@ -224,11 +224,11 @@ This structure helps organize the project into logical sections, making it easie
 
 sumitchohan: @workspace generate plant uml component diagrams for all components in the code base
 
-Workspace: I'm sorry, I can't answer that question with what I currently know about your workspace.
+I'm sorry, I can't answer that question with what I currently know about your workspace.
 
 sumitchohan: @workspace generate plant uml component diagrams for all components in current code base
 
-Workspace: To generate PlantUML component diagrams for all components in your codebase, you can create a `.puml` file and describe the components and their relationships. Below is an example of how you might structure the PlantUML code based on your workspace structure:
+To generate PlantUML component diagrams for all components in your codebase, you can create a `.puml` file and describe the components and their relationships. Below is an example of how you might structure the PlantUML code based on your workspace structure:
 
 ```plantuml
 @startuml
@@ -287,7 +287,7 @@ To visualize this diagram, you can use a PlantUML viewer or an IDE plugin that s
 
 sumitchohan: @workspace Provide explanatio of each component in above diagram
 
-Workspace: Sure, I'll provide an explanation of each component in your workspace structure:
+Sure, I'll provide an explanation of each component in your workspace structure:
 
 
 ### Solution Components
@@ -366,7 +366,7 @@ Each component plays a specific role in the overall structure and functionality 
 
 sumitchohan: @workspace identify all state documents applicable in the code base and create plant uml diagrams
 
-Workspace: To create PlantUML diagrams for the state documents in your codebase, we need to identify the relevant files and their relationships. Based on your workspace structure and the provided code excerpts, the state documents are likely the JSON files in the [`data`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fdata%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/data") directory and the models in the [`models`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/models") directory.
+To create PlantUML diagrams for the state documents in your codebase, we need to identify the relevant files and their relationships. Based on your workspace structure and the provided code excerpts, the state documents are likely the JSON files in the [`data`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fdata%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/data") directory and the models in the [`models`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fmodels%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/models") directory.
 
 ### Identified State Documents
 1. [`data/cart.json`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fdata%2Fcart.json%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/data/cart.json")
@@ -460,7 +460,7 @@ You can use these PlantUML diagrams to visualize the relationships between your 
 
 sumitchohan: @workspace create another plant uml diagram showing relationships among all business entities and data models
 
-Workspace: To create a PlantUML diagram showing the relationships among all business entities and data models, we can use the information provided about the models and their schemas. Below is the PlantUML code for the diagram:
+To create a PlantUML diagram showing the relationships among all business entities and data models, we can use the information provided about the models and their schemas. Below is the PlantUML code for the diagram:
 
 ```plantuml
 @startuml
@@ -524,7 +524,7 @@ This PlantUML code defines the entities `User`, `Product`, `Order`, and `Cart`, 
 
 sumitchohan: @workspace Create a plantuml diagram for all classes in current codebase
 
-Workspace: Based on the provided workspace structure and the relevant symbols, here is a PlantUML diagram representing the classes and their relationships in the current codebase:
+Based on the provided workspace structure and the relevant symbols, here is a PlantUML diagram representing the classes and their relationships in the current codebase:
 
 ```plantuml
 @startuml
@@ -599,7 +599,7 @@ This PlantUML code defines the entities `User`, `Product`, `Order`, and `Cart`, 
 
 sumitchohan: @workspace Create plantuml diagram showing all state documents
 
-Workspace: Based on the provided workspace structure and the relevant files, here is a PlantUML diagram representing the state documents (JSON files) and their relationships:
+Based on the provided workspace structure and the relevant files, here is a PlantUML diagram representing the state documents (JSON files) and their relationships:
 
 ```plantuml
 @startuml
@@ -641,11 +641,11 @@ This PlantUML code defines the entities `Cart` and `Product`, and shows the rela
 
 sumitchohan: @workspace generate plant uml diagram showing all use cases in current codebase
 
-Workspace: I'm sorry, I can't answer that question with what I currently know about your workspace.
+I'm sorry, I can't answer that question with what I currently know about your workspace.
 
 sumitchohan: @workspace generate plant uml diagram showing all use cases in current code base
 
-Workspace: Based on the provided workspace structure and the relevant files, here is a PlantUML diagram representing the use cases in the current codebase:
+Based on the provided workspace structure and the relevant files, here is a PlantUML diagram representing the use cases in the current codebase:
 
 ```plantuml
 @start
@@ -692,7 +692,7 @@ This PlantUML code defines the use cases for the `ShopingKaro` application. The 
 
 sumitchohan: @workspace describe all use cases in current code base
 
-Workspace: Based on the provided workspace structure and code excerpts, here are the primary use cases in the current codebase:
+Based on the provided workspace structure and code excerpts, here are the primary use cases in the current codebase:
 
 ### 1. **Product Browsing**
 - **Description**: Users can browse through a list of products.
@@ -3762,7 +3762,7 @@ sumitchohan: @workspace generate detailed documentation for current code file in
 
 
 
-Workspace: Sure, here is the detailed documentation for the [`product-details.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Fproduct-details.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/product-details.ejs") file:
+Sure, here is the detailed documentation for the [`product-details.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Fproduct-details.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/product-details.ejs") file:
 
 # [`product-details.ejs`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fshop%2Fproduct-details.ejs%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/shop/product-details.ejs")
 
@@ -4129,7 +4129,7 @@ The [`add-product.html`](command:_github.copilot.openRelativePath?%5B%7B%22schem
 sumitchohan: @workspace generate detailed documentation for current code file including all methods, fields, properties and summary of their implementation including pseudo logic
 
 
-Workspace: Sure, here is the detailed documentation for the [`views/add-product.pug`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadd-product.pug%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/add-product.pug") file:
+Sure, here is the detailed documentation for the [`views/add-product.pug`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadd-product.pug%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/add-product.pug") file:
 
 # [`views/add-product.pug`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fsumit%2Frepos%2FShopingKaro%2Fviews%2Fadd-product.pug%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "/Users/sumit/repos/ShopingKaro/views/add-product.pug")
 
