@@ -297,6 +297,7 @@ package "Router" {
 @enduml
 ```
 
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/router.png)
 ### Dynamic Form Components
 
 ```plantuml
@@ -494,6 +495,7 @@ Lead --> File : files
 @enduml
 ```
 
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/all-BE.png)
 ### Description of Entities:
 
 1. **Lead**: Represents a potential customer or client.
@@ -777,7 +779,7 @@ About --> Logout
 NotFound --> Dashboard
 @enduml
 ```
-
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/all-c.png)
 ### Description of Entities:
 
 1. **Models**:
@@ -951,6 +953,7 @@ UC_GeneratePDF --> UC_RecordInvoicePayment
 @enduml
 ```
 
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/all-uc.png)
 ### Description of Use Cases:
 
 1. **Frontend**:
