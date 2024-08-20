@@ -123,6 +123,7 @@ package "Training Apps" {
 [README.md]
 @enduml
 ```
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/cobol-apps-solution-structure.png) 
 
 This diagram shows the hierarchical structure of your solution, with each package representing a directory and each file listed within its respective directory.
 
@@ -537,6 +538,8 @@ package "Training Apps" {
 @enduml
 ```
 
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/cobol-apps-all-classes.png)
+
 ### Explanation
 - **Basic Calculator**:
   - **PG16CALC**: Contains a [`main()`](command:_github.copilot.openSymbolFromReferences?%5B%22main()%22%2C%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2Fworkspaces%2Fcobol-apps%2FREADME.md%22%2C%22external%22%3A%22file%3A%2F%2F%2Fworkspaces%2Fcobol-apps%2FREADME.md%22%2C%22path%22%3A%22%2Fworkspaces%2Fcobol-apps%2FREADME.md%22%2C%22scheme%22%3A%22file%22%7D%2C%22pos%22%3A%7B%22line%22%3A4%2C%22character%22%3A76%7D%7D%5D%5D "Go to definition") method.
@@ -641,6 +644,7 @@ User --> UC_StudentGradeAverage
 
 @enduml
 ```
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/cobol-apps-all-use-cases.png)
 
 This diagram includes all the use cases inferred from the provided code excerpts and directory structure. You can copy this PlantUML code into a PlantUML viewer to visualize the use case diagram.
 
