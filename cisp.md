@@ -307,6 +307,7 @@ ShowSumController --> ReceivedValues : receives
 
 @enduml
 ```
+![alt text](https://raw.githubusercontent.com/sumitchohan/CodeSpecML/main/cisp-all-classes.png)
 
 ### Explanation
 - **Controllers**: 
